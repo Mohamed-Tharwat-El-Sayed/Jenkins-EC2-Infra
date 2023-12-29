@@ -12,4 +12,7 @@ provider "aws" {
   shared_credentials_files = ["$HOME/.aws/credentials"]
   profile                  = var.profile
   region                   = var.region
+#access_key = "your-access-key"
+#secret_key = "your-secret-key"
+#region     = "us-east-1"
 }
