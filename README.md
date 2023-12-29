@@ -13,7 +13,7 @@ Before you begin, ensure you have the following:
 ## Configuration
 1. Clone this repository:
 ```bash
-git clone https://github.com/your-username/terraform-jenkins-aws.git
+git clone https://github.com/Mohamed-Tharwat-El-Sayed/Jenkins-EC2-Infra.git
 ```
 
 2. Open `Provider.tf` and update the variables with your AWS credentials, region, and any other configuration you want to customize.
