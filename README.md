@@ -24,7 +24,7 @@ region     = "us-east-1"
 ```
 3. Open `main.tf` and update `private_key` and any other configuration you want to customize.
 
-3.Customize other settings in `variables.tf` if needed.
+4. Customize other settings in `variables.tf` if needed.
 
 ## Usage
 1. Initialize Terraform:
